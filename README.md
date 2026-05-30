@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/never-far-away/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Never Far Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-far-away/) |
+| **Get License** | [Official Music Licensing for Never Far Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-far-away/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
