@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Never Far Away
+
+This log tracks the cryptographic history and versioning for the song **Never Far Away** (never-far-away).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T13:17:25.533123 | `v1` | `` | `9f94a74e108a21620a97f6dd0e09580035c618dfd8dc785753676a3b68e53a41` | `2026-05-30_never-far-away-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
